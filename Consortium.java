@@ -1,5 +1,7 @@
 package enterpriseSort;
-
+// Seth G. R. Herendeen
+// CC0 Public Domain
+// No rights reserved. Do whatever you want.
 public class Consortium {
     public static void main(String[] args) {
 	int[] array = createRandomArray(1000);
